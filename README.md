@@ -1,2 +1,2 @@
 # q
-Do not go gentle into the good night.
+Do not go gentle into that good night.
